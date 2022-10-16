@@ -132,6 +132,9 @@ if Timer:
 # Installation - Frontend
 
 Install the required Dependencies
-- [x] pip install python
-- [x] pip install flask
-
+```
+pip install python
+```
+```
+pip install flask
+```

@@ -10,12 +10,12 @@ Title : Rush Estimator for Corporate Cafeteria
 * [@sudharsandev](https://github.com/sudharsandev)
 * [@JKaviyashree](https://github.com/JKaviyashree)
 
-##Demo
-Demonstration video:
+## Demo
+Demonstration video:  
 
-##Installation - Backend
+## Installation - Backend
 
-# People-Counting-in-Real-Time
+### People-Counting-in-Real-Time
 People Counting in Real-Time using live video stream/IP camera in OpenCV.
 
 

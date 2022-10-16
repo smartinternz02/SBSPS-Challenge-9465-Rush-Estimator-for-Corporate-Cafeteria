@@ -11,7 +11,7 @@ Title : Rush Estimator for Corporate Cafeteria
 * [@JKaviyashree](https://github.com/JKaviyashree)
 
 ## Demo
-Demonstration video:  
+Demonstration video: https://youtu.be/1qJdKktJb3A
 
 # Installation - Backend
 

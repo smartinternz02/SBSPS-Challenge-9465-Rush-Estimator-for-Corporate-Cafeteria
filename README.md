@@ -148,11 +148,11 @@ flask run
 ![App Screenshot](https://github.com/smartinternz02/SBSPS-Challenge-9465-Rush-Estimator-for-Corporate-Cafeteria/blob/main/Report%20Screenshots/Login.png)
 | _3. Analytics_ |<br /><br />
 ![App Screenshot](https://github.com/smartinternz02/SBSPS-Challenge-9465-Rush-Estimator-for-Corporate-Cafeteria/blob/main/Report%20Screenshots/Analytics.png)
-| _4. Live stream_ |
+| _4. Live stream_ |<br /><br />
 ![App Screenshot](https://github.com/smartinternz02/SBSPS-Challenge-9465-Rush-Estimator-for-Corporate-Cafeteria/blob/main/Report%20Screenshots/Live%20stream.png)
-| _5. Signup_ |
+| _5. Signup_ |<br /><br />
 ![App Screenshot](https://github.com/smartinternz02/SBSPS-Challenge-9465-Rush-Estimator-for-Corporate-Cafeteria/blob/main/Report%20Screenshots/Signup.png)
-| _7. Before Detecting_ |
+| _7. Before Detecting_ |<br /><br />
 ![App Screenshot](https://github.com/smartinternz02/SBSPS-Challenge-9465-Rush-Estimator-for-Corporate-Cafeteria/blob/main/Report%20Screenshots/Before.png)
-| _8. After Detection_ |
+| _8. After Detection_ |<br /><br />
 ![App Screenshot](https://github.com/smartinternz02/SBSPS-Challenge-9465-Rush-Estimator-for-Corporate-Cafeteria/blob/main/Report%20Screenshots/After.png)

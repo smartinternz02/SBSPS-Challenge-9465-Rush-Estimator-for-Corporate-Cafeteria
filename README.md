@@ -129,4 +129,9 @@ if Timer:
 
 <p>&nbsp;</p>
 
----
+# Installation - Frontend
+
+Install the required Dependencies
+- [x] pip install python
+- [x] pip install flask
+

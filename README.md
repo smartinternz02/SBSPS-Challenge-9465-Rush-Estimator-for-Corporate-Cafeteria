@@ -21,13 +21,6 @@ People Counting in Real-Time using live video stream/IP camera in OpenCV.
 
 --- 
 
-## Table of Contents
-* [Simple Theory](#simple-theory)
-* [Running Inference](#running-inference)
-* [Features](#features)
-* [References](#references)
-* [Next Steps](#next-steps)
-
 ## Simple Theory
 **SSD detector:**
 - We are using a SSD (Single Shot Detector) with a MobileNet architecture. In general, it only takes a single shot to detect whatever is in an image. That is, one for generating region proposals, one for detecting the object of each proposal. 
@@ -112,20 +105,7 @@ if Timer:
 - Logs all data at end of the day.
 - Useful for footfall analysis.
 
-## References
-***Main:***
-- SSD paper: https://arxiv.org/abs/1512.02325
-- MobileNet paper: https://arxiv.org/abs/1704.04861
-- Centroid tracker: https://www.pyimagesearch.com/2018/07/23/simple-object-tracking-with-opencv/
 
-***Optional:***
-- https://towardsdatascience.com/review-ssd-single-shot-detector-object-detection-851a94607d11
-- https://pypi.org/project/schedule/
-
-## Next steps
-- Train the SSD on human data (with a top-down view).
-- Experiment with other detectors and benchmark the results on computationally less expensive embedded hardware. 
-- Evaluate the performance on multiple IP cameras.
 
 <p>&nbsp;</p>
 
@@ -144,3 +124,18 @@ pip install flask
 ```
 flask run
 ```
+
+## References
+***Main:***
+- SSD paper: https://arxiv.org/abs/1512.02325
+- MobileNet paper: https://arxiv.org/abs/1704.04861
+- Centroid tracker: https://www.pyimagesearch.com/2018/07/23/simple-object-tracking-with-opencv/
+
+***Optional:***
+- https://towardsdatascience.com/review-ssd-single-shot-detector-object-detection-851a94607d11
+- https://pypi.org/project/schedule/
+
+## Next steps
+- Train the SSD on human data (with a top-down view).
+- Experiment with other detectors and benchmark the results on computationally less expensive embedded hardware. 
+- Evaluate the performance on multiple IP cameras.

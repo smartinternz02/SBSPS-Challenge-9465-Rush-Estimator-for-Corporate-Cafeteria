@@ -13,7 +13,7 @@ Title : Rush Estimator for Corporate Cafeteria
 ## Demo
 Demonstration video:  
 
-## Installation - Backend
+# Installation - Backend
 
 ### People-Counting-in-Real-Time
 People Counting in Real-Time using live video stream/IP camera in OpenCV.

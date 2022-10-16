@@ -120,6 +120,11 @@ pip install python
 ```
 pip install flask
 ```
+
+- Install Opencv
+```
+pip install opencv-python
+```
 - Then run the code
 ```
 flask run

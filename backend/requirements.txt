@@ -1,3 +1,5 @@
+python==3.10.8
+flask==2.2.2
 schedule==1.1.0
 numpy==1.22.3
 argparse==1.4.0

@@ -131,10 +131,16 @@ if Timer:
 
 # Installation - Frontend
 
-Install the required Dependencies
+Install the required Dependencies  
+- Install Python
 ```
 pip install python
 ```
+- install Flask
 ```
 pip install flask
+```
+- Then run the code
+```
+flask run
 ```

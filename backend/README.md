@@ -107,18 +107,6 @@ if Timer:
 
 ## Thanks for the read & have fun!
 
-> To get started/contribute quickly (optional) ...
-
-- **Option 1**
-    - 🍴 Fork this repo and pull request!
-
-- **Option 2**
-    - 👯 Clone this repo:
-    ```
-    $ git clone https://github.com/saimj7/People-Counting-in-Real-Time.git
-    ```
-
-- **Roll it!**
 
 ---
 

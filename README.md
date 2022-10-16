@@ -139,3 +139,6 @@ flask run
 - Train the SSD on human data (with a top-down view).
 - Experiment with other detectors and benchmark the results on computationally less expensive embedded hardware. 
 - Evaluate the performance on multiple IP cameras.
+
+## Screenshots
+![image](https://github.com/smartinternz02/SBSPS-Challenge-9465-Rush-Estimator-for-Corporate-Cafeteria/blob/main/Report%20Screenshots/Home.png)
